@@ -1,7 +1,13 @@
-<h3>I am someone who is passionate in coding and learning many technical stuffs</h3>
+<h3>I am someone with name Daniel Jebarson who is passionate in coding and learning some useful and useless technical stuffs</h3>
 🙋‍♂️ About Me:
 
 - 🔭 I’m currently working on **[Exploiter-bot](https://top.gg/bot/839421874646548530)**
+
+- 📚 Studying in VIT Vellore 2nd year
+
+- 🎓Current status : VITIAN
+
+- 🏫School : AKMHSIAN
 
 - 🌱 I’m currently learning **HTML and JAVA**
 
