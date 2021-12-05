@@ -20,22 +20,24 @@
 <p align="left"> 
       <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
       <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-      <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+      <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
       <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
       <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>   
       <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>  
       <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
       <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c"/> </a> 
       <a href="https://www.cplusplus.com/doc/tutorial/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/120px-ISO_C%2B%2B_Logo.svg.png" style="width:48px;height:48px;"/> </a> 
+      <a href="https://motor.readthedocs.io/en/stable/" target="_blank"> <img src="https://motor.readthedocs.io/en/stable/_images/motor.png" style="width:48px;height:48px;"/> </a> 
       <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
  <br>
  
  ## 🚀 Tools:
  <a href="https://sites.google.com/a/android.com/tools/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-studio"/> </a>
-        <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio"/> </a>
-      <a href="https://replit.com/~" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Repl.it_logo.svg" width="48" height="48"/> </a>
-        <a href="https://sourceforge.net/projects/orwelldevcpp/" target="_blank"> <img src="https://a.fsdn.com/allura/p/orwelldevcpp/icon?1480458710?&w=90"/> </a>
-   <a href="https://www.mysql.com/products/workbench/" target="_blank"> <img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2020/04/mysql-workbench.png" width="48" height="48"/> </a>
+ <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio"/> </a>
+ <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/113px-Visual_Studio_Code_1.35_icon.svg.png" width="48" height="48"/> </a>
+ <a href="https://replit.com/~" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Repl.it_logo.svg" width="48" height="48"/> </a>
+ <a href="https://sourceforge.net/projects/orwelldevcpp/" target="_blank"> <img src="https://a.fsdn.com/allura/p/orwelldevcpp/icon?1480458710?&w=90"/> </a>
+ <a href="https://www.mysql.com/products/workbench/" target="_blank"> <img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2020/04/mysql-workbench.png" width="48" height="48"/> </a>
   
   <h3>🛰️Connect with me in</h3>
 <a href="https://discord.com/channels/@me/887340149145468948">
@@ -51,7 +53,7 @@
 <img align="left" alt="In facebook" width="40px" src="https://img.icons8.com/color/48/000000/facebook" />
 </a>
 <a href="https://github.com/Dani-Hacker">
-<img align="left" alt="In github" width="40px" src="https://img.icons8.com/color/48/000000/github" />
+<img align="left" alt="In github" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />
 </a>
   </p><br><br><br>
   
