@@ -19,9 +19,9 @@
 
 - ⚡ Fact **I gave importance to live spiritually**
 
+<br>
 
-
-## ☄️ Languages:
+☄️ Languages:
 
 <p align="left"> 
       <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
@@ -36,16 +36,21 @@
       <a href="https://motor.readthedocs.io/en/stable/" target="_blank"> <img src="https://motor.readthedocs.io/en/stable/_images/motor.png" style="width:48px;height:48px;"/> </a> 
       <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
  <br>
- 
- ## 🚀 Tools:
+      <a href="https://in.mathworks.com/products/matlab.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" style="width:48px;height:48px;"/> </a> 
+      <a href="https://www.r-project.org/" target="_blank"> <img src="https://www.r-project.org/Rlogo.png" style="width:48px;height:48px;"/> </a> 
+ </p><br>
+ 🚀 Tools:
+ <br>
+ <p align="left"> 
  <a href="https://sites.google.com/a/android.com/tools/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-studio"/> </a>
  <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio"/> </a>
  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/113px-Visual_Studio_Code_1.35_icon.svg.png" width="48" height="48"/> </a>
  <a href="https://replit.com/~" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Repl.it_logo.svg" width="48" height="48"/> </a>
  <a href="https://sourceforge.net/projects/orwelldevcpp/" target="_blank"> <img src="https://a.fsdn.com/allura/p/orwelldevcpp/icon?1480458710?&w=90"/> </a>
  <a href="https://www.mysql.com/products/workbench/" target="_blank"> <img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2020/04/mysql-workbench.png" width="48" height="48"/> </a>
-  
+   </p>
   <h3>🛰️Connect with me in</h3>
+   <p align="left"> 
 <a href="https://discord.com/channels/@me/887340149145468948">
 <img align="left" alt="Dani's Discord" width="40px" src="https://img.icons8.com/color/48/000000/discord-logo.png" />
 </a>
@@ -64,11 +69,10 @@
   </p><br><br><br>
   
 📊 My Github Stats
-
-  <br/>
+<br>
     <a href="https://github.com/Dani-Hacker/dani/blob/main/README.md"><img alt="Dani Hacker's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Dani-Hacker&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/Dani-Hacker/dani/blob/main/README.md"><img alt="Dani-Hacker's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dani-Hacker&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
+  <br>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
