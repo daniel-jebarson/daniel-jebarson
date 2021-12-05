@@ -11,7 +11,7 @@
 
 - 📫 Reach me **discord-Dani_Cyber#3019**
 
-- ⚡ Fact **I gave importance to live my spiritually**
+- ⚡ Fact **I gave importance to live spiritually**
 
 
 
