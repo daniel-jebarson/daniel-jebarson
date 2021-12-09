@@ -1,10 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=18&vCenter=true&height=16&lines=Hi+there+%2CI'm+Daniel+Jebarson;I+learns+technical+stuffs.;You+can+c%C3%B8ntact+me+in+discord.;Hi+there%2C+You+can+call+me+Dani.;Hi+there%2C+I'm+2nd+year+CSE+student;Hi+there%2C+I'm+a+musician.)](https://github.com/Dani-Hacker/Dani-Hacker)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=18&vCenter=true&height=16&lines=Hi+there+%2CI'm+Daniel+Jebarson;I+learns+technical+stuffs.;You+can+c%C3%B8ntact+me+in+discord.;Hi+there%2C+You+can+call+me+Dani.;Hi+there%2C+I'm+2nd+year+CSE+student;Hi+there%2C+I+play+music+stuffs.)](https://github.com/Dani-Hacker/Dani-Hacker)
 
 🙋‍♂️ About Me:
 
--👨‍💻  I'm passionate in coding and learning some useful and useless technical stuffs
+-  👨‍💻 I'm passionate in coding and learning some useful and useless technical stuffs
 
-- 🔭 I’m currently working on **[Exploiter-bot](https://top.gg/bot/839421874646548530)**
+-  🔭 I’m currently working on **[Exploiter-bot](https://top.gg/bot/839421874646548530)**
 
 - 📚 Studying in VIT Vellore 2nd year
 
