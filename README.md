@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at **[GitHub](https://github.com/Dani-Hacker)**
 
-- 📫 Reach me **discord-Dani_Cyber#3019**
+- 📫 Reach me in **discord**
 
 - ⚡ Fact **I gave importance to live spiritually**
 
@@ -83,6 +83,12 @@
 <br/>
 
 <a href="https://github.com/Dani-Hacker/dani/blob/main/README.md"><img alt="Dani Hacker's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Dani-Hacker&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
+UserName
 <br/>
+
+```py
+Dani_Cyber#3019
+```
+<a href="https://komarev.com/ghpvc/?username=Dani-Hacker"><img alt="Views" src="https://komarev.com/ghpvc/?username=Dani-Hacker&color=red&label=PROFILE+VIEWS&style=flat-square">
+
 <br/>
