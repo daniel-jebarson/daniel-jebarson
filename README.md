@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at **[GitHub](https://github.com/Dani-Hacker)**
 
-- 📫 Reach me **discord-Dani_Cyber#3019**
+- 📫 Reach me in **discord**
 
 - ⚡ Fact **I gave importance to live spiritually**
 
@@ -83,6 +83,18 @@
 <br/>
 
 <a href="https://github.com/Dani-Hacker/dani/blob/main/README.md"><img alt="Dani Hacker's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Dani-Hacker&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
+<p align="left"> 
+      <a href="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"><img alt="Discord-Badge" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height=32></a>
+      <a href="https://img.shields.io/badge/User-Name-1abc9c.svg"><img alt="Discord-Badge" src="https://img.shields.io/badge/User-Name-1abc9c.svg" height=32 width=70></a>
+      </p>
 <br/>
+
+```py
+Dani_Cyber#3019
+```
+<br>
+<p align="left"> 
+<a href="https://komarev.com/ghpvc/?username=Dani-Hacker"><img alt="Views" src="https://komarev.com/ghpvc/?username=Dani-Hacker&color=red&label=VIEWS&style=flat-square">
+<a href="https://img.shields.io/github/followers/Dani-Hacker.svg?style=social&label=Follow&maxAge=2592000"><img alt="Follows" src="https://img.shields.io/github/followers/Dani-Hacker.svg?style=social&label=Follow&maxAge=2592000">
+      </p>
 <br/>
