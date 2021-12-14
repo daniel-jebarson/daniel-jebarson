@@ -1,6 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=18&vCenter=true&height=16&lines=Hi+there+%2CI'm+Daniel+Jebarson;I+learns+technical+stuffs.;You+can+c%C3%B8ntact+me+in+discord.;Hi+there%2C+You+can+call+me+Dani.;Hi+there%2C+I'm+2nd+year+CSE+student;Hi+there%2C+I+play+music+stuffs.)](https://github.com/Dani-Hacker/Dani-Hacker)
-
-🙋‍♂️ About Me:
+<p align="left">
+      <a href="./assets/hi-hello.gif" target="_blank"> <img src="./assets/hi-hello.gif" alt="asteroid" width="20" height="20"/> </a> 
+About Me:
+      </p>
 
 -  👨‍💻 I'm passionate in coding and learning some useful and useless technical stuffs
 
@@ -23,8 +25,10 @@
 - ⚡ Fact **I gave importance to live spiritually**
 
 <br>
-
-☄️ Languages:
+<p align="left">
+      <a href="./assets/asteroid.gif" target="_blank"> <img src="./assets/asteroid.gif" alt="asteroid" width="25" height="25"/> </a>
+Languages:
+      </p>
 
 <p align="left"> 
       <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
@@ -42,7 +46,10 @@
       <a href="https://in.mathworks.com/products/matlab.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" style="width:48px;height:48px;"/> </a> 
       <a href="https://www.r-project.org/" target="_blank"> <img src="https://www.r-project.org/Rlogo.png" style="width:48px;height:48px;"/> </a> 
  </p><br>
- 🚀 Tools:
+ <p align="left">
+      <a href="./assets/rocket.gif" target="_blank"> <img src="./assets/rocket.gif" alt="rocket" width="25" height="25"/> </a>
+Tools:
+      </p>
  <br>
  <p align="left"> 
  <a href="https://sites.google.com/a/android.com/tools/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-studio"/> </a>
@@ -52,6 +59,7 @@
  <a href="https://sourceforge.net/projects/orwelldevcpp/" target="_blank"> <img src="https://a.fsdn.com/allura/p/orwelldevcpp/icon?1480458710?&w=90"/> </a>
  <a href="https://www.mysql.com/products/workbench/" target="_blank"> <img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2020/04/mysql-workbench.png" width="48" height="48"/> </a>
    </p>
+
   <h3>🛰️Connect with me in</h3>
    <p align="left"> 
 <a href="https://discord.com/channels/@me/887340149145468948">
@@ -70,8 +78,10 @@
 <img align="left" alt="In github" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />
 </a>
   </p><br><br><br>
-  
+     <p align="left">
+      <a href="./assets/graph.gif" target="_blank"> <img src="./assets/graph.gif" alt="Graph" width="25" height="25"/> </a>
 📊 My Github Stats
+      </p>
 <br>
     <a href="https://github.com/Dani-Hacker/dani/blob/main/README.md"><img alt="Dani Hacker's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Dani-Hacker&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/Dani-Hacker/dani/blob/main/README.md"><img alt="Dani-Hacker's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dani-Hacker&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
