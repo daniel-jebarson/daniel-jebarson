@@ -8,7 +8,7 @@ About Me:
 
 -  👨‍💻 I'm passionate in coding and learning some useful and useless technical stuffs
 
--  🔭 I’m currently working on **[Exploiter-bot](https://top.gg/bot/839421874646548530)**
+-  🔭 I’m currently working some mini-projects **[nOde-js](https://nodejs.org/en/)**
 
 - 📚 Studying in VIT Vellore 2nd year
 
