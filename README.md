@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=18&vCenter=true&height=16&lines=Hi+there+%2CI'm+Daniel+Jebarson;I+learns+technical+stuffs.;You+can+c%C3%B8ntact+me+in+discord.;Hi+there%2C+You+can+call+me+Dani.;Hi+there%2C+I'm+2nd+year+CSE+student;Hi+there%2C+I+play+music+stuffs.)](https://github.com/Dani-Hacker/Dani-Hacker)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=18&vCenter=true&height=16&lines=Hi+there+%2CI'm+Daniel+Jebarson;I+learns+technical+stuffs.;You+can+c%C3%B8ntact+me+in+discord.;Hi+there%2C+You+can+call+me+Dani.;Hi+there%2C+I'm+2nd+year+CSE+student;Hi+there%2C+I+play+music+stuffs.)](https://github.com/daniel-jebarson/daniel-jebarson)
 <h2>
 <p align="left">
       <a href="./assets/hi-hello.gif" target="_blank"> <img src="./assets/hi-hello.gif" alt="asteroid" width="20" height="20"/> </a> 
@@ -20,7 +20,7 @@ About Me:
 
 - 👯 I’m looking to collaborate on **OpenSource Discord-bot projects may be android studio** but only when i am free
 
-- 👨‍💻 All of my projects are available at **[GitHub](https://github.com/Dani-Hacker)**
+- 👨‍💻 All of my projects are available at **[GitHub](https://github.com/daniel-jebarson)**
 
 - 📫 Reach me in **discord**
 
@@ -83,7 +83,7 @@ Connect with me in:
 <a href="https://www.facebook.com/daniel.jebarson.9">
 <img align="left" alt="In facebook" width="40px" src="https://img.icons8.com/color/48/000000/facebook" />
 </a>
-<a href="https://github.com/Dani-Hacker">
+<a href="https://github.com/daniel-jebarson">
 <img align="left" alt="In github" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />
 </a>
   </p><br><br><br>
@@ -93,8 +93,8 @@ Connect with me in:
 My Github Stats:
       </p></h3>
 <br>
-    <a href="https://github.com/Dani-Hacker/dani/blob/main/README.md"><img alt="Dani Hacker's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Dani-Hacker&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Dani-Hacker/dani/blob/main/README.md"><img alt="Dani-Hacker's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dani-Hacker&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/daniel-jebarson/dani/blob/main/README.md"><img alt="Dani Hacker's Github Stats" src="https://github-readme-stats.vercel.app/api?username=daniel-jebarson&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/daniel-jebarson/dani/blob/main/README.md"><img alt="Daniel-Jebarson's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-jebarson&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -102,7 +102,7 @@ My Github Stats:
 <br/>
 <br/>
 
-<a href="https://github.com/Dani-Hacker/dani/blob/main/README.md"><img alt="Dani Hacker's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Dani-Hacker&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/daniel-jebarson/dani/blob/main/README.md"><img alt="Daniel Jebarson's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=daniel-jebarson&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <p align="left"> 
       <a href="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"><img alt="Discord-Badge" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height=32></a>
       <a href="https://img.shields.io/badge/User-Name-1abc9c.svg"><img alt="Discord-Badge" src="https://img.shields.io/badge/User-Name-1abc9c.svg" height=32 width=70></a>
@@ -114,7 +114,7 @@ Dani_Cyber#3019
 ```
 <br>
 <p align="left"> 
-<a href="https://komarev.com/ghpvc/?username=Dani-Hacker"><img alt="Views" src="https://komarev.com/ghpvc/?username=Dani-Hacker&color=red&label=VIEWS&style=flat-square">
-<a href="https://img.shields.io/github/followers/Dani-Hacker.svg?style=social&label=Follow&maxAge=2592000"><img alt="Follows" src="https://img.shields.io/github/followers/Dani-Hacker.svg?style=social&label=Follow&maxAge=2592000">
+<a href="https://komarev.com/ghpvc/?username=daniel-jebarson"><img alt="Views" src="https://komarev.com/ghpvc/?username=daniel-jebarson&color=red&label=VIEWS&style=flat-square">
+<a href="https://img.shields.io/github/followers/daniel-jebarson.svg?style=social&label=Follow&maxAge=2592000"><img alt="Follows" src="https://img.shields.io/github/followers/daniel-jebarson.svg?style=social&label=Follow&maxAge=2592000">
       </p>
 <br/>
