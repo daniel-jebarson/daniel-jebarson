@@ -10,7 +10,7 @@ About Me:
 
 -  🔭 I’m currently working some mini-projects **[node-js](https://nodejs.org/en/)**
 
-- 📚 Studying in VIT Vellore 2nd year
+- 📚 Studying in VIT Vellore 3rd year
 
 - 🎓Current status : VITIAN
 
