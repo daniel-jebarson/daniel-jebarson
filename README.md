@@ -24,31 +24,30 @@ About Me:
 
 - 📫 Reach me in **discord**
 
-- ⚡ Fact **I gave importance to live spiritually**
-
 <br>
-<h3>
-<p align="left">
-      <a href="./assets/asteroid.gif" target="_blank"> <img src="./assets/asteroid.gif" alt="asteroid" width="25" height="25"/> </a>
-Languages:
-      </p>
-</h3>
-<p align="left"> 
-      <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-      <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-      <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-      <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-      <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>   
-      <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>  
-      <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-      <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c"/> </a> 
-      <a href="https://www.cplusplus.com/doc/tutorial/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/120px-ISO_C%2B%2B_Logo.svg.png" style="width:48px;height:48px;"/> </a> 
-      <a href="https://motor.readthedocs.io/en/stable/" target="_blank"> <img src="https://motor.readthedocs.io/en/stable/_images/motor.png" style="width:48px;height:48px;"/> </a> 
-      <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+
+# Languages & Tools 🛠️
+
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
+<code><img height="30" src="https://www.svgrepo.com/show/327408/logo-vercel.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
+<code> <img height="30" src="https://img.icons8.com/color/48/000000/python.png"/> </code>
+<code> <img height="30" src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </code>
+<code> <img height="30" src="https://img.icons8.com/color/48/000000/firebase.png"/> </code>
+<code><img height="30" src="https://motor.readthedocs.io/en/stable/_images/motor.png"/>  </code>
+<code> <img height="30" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </code>
+<code> <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" /> </code>
+<code> <img height="30" src="https://www.r-project.org/Rlogo.png" /> </code>
+
  <br>
-      <a href="https://in.mathworks.com/products/matlab.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" style="width:48px;height:48px;"/> </a> 
-      <a href="https://www.r-project.org/" target="_blank"> <img src="https://www.r-project.org/Rlogo.png" style="width:48px;height:48px;"/> </a> 
- </p><br>
  <h3>
  <p align="left">
       <a href="./assets/rocket.gif" target="_blank"> <img src="./assets/rocket.gif" alt="rocket" width="35" height="35"/> </a>
