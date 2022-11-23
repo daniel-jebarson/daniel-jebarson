@@ -1,10 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=18&vCenter=true&height=16&lines=Hi+there+%2CI'm+Daniel+Jebarson;I+learns+technical+stuffs.;You+can+c%C3%B8ntact+me+in+discord.;Hi+there%2C+You+can+call+me+Dani.;Hi+there%2C+I'm+2nd+year+CSE+student;Hi+there%2C+I+play+music+stuffs.)](https://github.com/daniel-jebarson/daniel-jebarson)
-<h2>
-<p align="left">
-      <a href="./assets/hi-hello.gif" target="_blank"> <img src="./assets/hi-hello.gif" alt="asteroid" width="20" height="20"/> </a> 
-About Me:
-      </p>
-      </h2>
+## 💫 About Me:
 
 -  👨‍💻 I'm passionate in coding and learning some useful and useless technical stuffs
 
@@ -16,17 +11,29 @@ About Me:
 
 - 🏫School : AKMHSIAN
 
-- 🌱 I’m currently learning **HTML and JAVA**
+- 🌱 I’m currently learning **React Native and TypeScript**
 
-- 👯 I’m looking to collaborate on **OpenSource Discord-bot projects may be android studio** but only when i am free
+- 👯 I’m looking to collaborate on **React Projects**
 
 - 👨‍💻 All of my projects are available at **[GitHub](https://github.com/daniel-jebarson)**
 
 - 📫 Reach me in **discord**
 
+```py
+Dani_Cyber#3019
+```
+
 <br>
 
-# Languages & Tools 🛠️
+## 🌐 Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-jebarson-k-a727a822a/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17009742/daniel-jebarson-k) [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/daniel_diago2003/) [![Facebook](https://img.shields.io/badge/Facebook-1877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/daniel.jebarson.9)  
+
+## ☄️ My Hacktoberfest Badges:
+
+[![@danieljebarson's Holopin board](https://holopin.me/danieljebarson)](https://holopin.io/@danieljebarson)
+
+## 🌍 Languages:
 
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
@@ -47,45 +54,16 @@ About Me:
 <code> <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" /> </code>
 <code> <img height="30" src="https://www.r-project.org/Rlogo.png" /> </code>
 
- <br>
- <h3>
- <p align="left">
-      <a href="./assets/rocket.gif" target="_blank"> <img src="./assets/rocket.gif" alt="rocket" width="35" height="35"/> </a>
-Tools:
-      </p>
-      </h3>
- <br>
- <p align="left"> 
- <a href="https://sites.google.com/a/android.com/tools/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-studio"/> </a>
- <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio"/> </a>
- <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/113px-Visual_Studio_Code_1.35_icon.svg.png" width="48" height="48"/> </a>
- <a href="https://replit.com/~" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Repl.it_logo.svg" width="48" height="48"/> </a>
- <a href="https://sourceforge.net/projects/orwelldevcpp/" target="_blank"> <img src="https://a.fsdn.com/allura/p/orwelldevcpp/icon?1480458710?&w=90"/> </a>
- <a href="https://www.mysql.com/products/workbench/" target="_blank"> <img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2020/04/mysql-workbench.png" width="48" height="48"/> </a>
-   </p>
-     <h3>
-     <p align="left">
-      <a href="./assets/satellite.gif" target="_blank"> <img src="./assets/satellite.gif" alt="Graph" width="40" height="25"/> </a>
-Connect with me in:
-      </p>
-      </h3>
-   <p align="left"> 
-<a href="https://discord.com/channels/@me/887340149145468948">
-<img align="left" alt="Dani's Discord" width="40px" src="https://img.icons8.com/color/48/000000/discord-logo.png" />
-</a>
-<a href="https://www.whatsapp.com/android/">
-<img align="left" alt="In whatsapp" width="40px" src="https://img.icons8.com/color/48/000000/whatsapp" />
-</a>
-<a href="https://www.instagram.com/invites/contact/?i=o3xq4sex984c&utm_content=j9nnxhv">
-<img align="left" alt="In instagram" width="40px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
-</a>
-<a href="https://www.facebook.com/daniel.jebarson.9">
-<img align="left" alt="In facebook" width="40px" src="https://img.icons8.com/color/48/000000/facebook" />
-</a>
-<a href="https://github.com/daniel-jebarson">
-<img align="left" alt="In github" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />
-</a>
-  </p><br><br><br>
+ ## 🛠️ Tools:
+ 
+<code><img height="30" src="https://img.icons8.com/color/48/000000/android-studio"></code>
+<code><img height="30" src="https://img.icons8.com/color/48/000000/visual-studio"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/113px-Visual_Studio_Code_1.35_icon.svg.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Repl.it_logo.svg"></code>
+<code><img height="30" src="https://a.fsdn.com/allura/p/orwelldevcpp/icon?1480458710?&w=90"></code>
+<code><img height="30" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2020/04/mysql-workbench.png"></code>
+
+
   <h3>
      <p align="left">
       <a href="./assets/graph.gif" target="_blank"> <img src="./assets/graph.gif" alt="Graph" width="25" height="25"/> </a>
@@ -102,15 +80,9 @@ My Github Stats:
 <br/>
 
 <a href="https://github.com/daniel-jebarson/dani/blob/main/README.md"><img alt="Daniel Jebarson's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=daniel-jebarson&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-<p align="left"> 
-      <a href="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"><img alt="Discord-Badge" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height=32></a>
-      <a href="https://img.shields.io/badge/User-Name-1abc9c.svg"><img alt="Discord-Badge" src="https://img.shields.io/badge/User-Name-1abc9c.svg" height=32 width=70></a>
-      </p>
-<br/>
 
-```py
-Dani_Cyber#3019
-```
+
+
 <br>
 <p align="left"> 
 <a href="https://komarev.com/ghpvc/?username=daniel-jebarson"><img alt="Views" src="https://komarev.com/ghpvc/?username=daniel-jebarson&color=red&label=VIEWS&style=flat-square">
