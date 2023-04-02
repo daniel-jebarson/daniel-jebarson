@@ -47,13 +47,23 @@ Dani_Cyber#3019
 <code><img height="30" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2020/04/mysql-workbench.png"></code>
 <br>
 
+
 ## 📊 GitHub Stats
 
   <a href="https://github.com/daniel-jebarson/dani/blob/main/README.md"><img alt="Dani Hacker's Github Stats" src="https://github-readme-stats.vercel.app/api?username=daniel-jebarson&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/daniel-jebarson/dani/blob/main/README.md"><img alt="Daniel-Jebarson's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-jebarson&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br>
 
-<a  href="https://github.com/daniel-jebarson/dani/blob/main/README.md"><div><img alt="Daniel Jebarson's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=daniel-jebarson&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></div>
+
+## 📈 Activity Graph
+
+<a  href="https://github.com/daniel-jebarson/dani/blob/main/README.md">
+ <div ><img alt="Daniel Jebarson's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=daniel-jebarson&theme=react-dark" /></div>
+ </a>
+ 
+ ## ✅ Github Contributions
+ 
+ <a  href="https://github.com/daniel-jebarson/dani/blob/main/README.md">
 <div align="center"><img alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=daniel-jebarson"/></div> </a>
 <br>
 
