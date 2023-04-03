@@ -20,7 +20,7 @@
 - 📫 Reach me in **discord**
 
 ```py
-Dani_Cyber#3019
+Dani_Cyber#3019 
 ```
 
 ## 🌐 Socials
@@ -45,8 +45,12 @@ Dani_Cyber#3019
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Repl.it_logo.svg"></code>
 <code><img height="30" src="https://a.fsdn.com/allura/p/orwelldevcpp/icon?1480458710?&w=90"></code>
 <code><img height="30" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2020/04/mysql-workbench.png"></code>
-<br>
+<br><br>
 
+<details>
+  <summary>
+  ✨ Github ^___^
+  </summary>
 
 ## 📊 GitHub Stats
 
@@ -70,7 +74,8 @@ Dani_Cyber#3019
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=daniel-jebarson&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
 
-
+</details>
+ 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
