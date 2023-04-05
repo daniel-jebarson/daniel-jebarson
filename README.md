@@ -1,5 +1,43 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=18&vCenter=true&height=16&lines=Hi+there+%2CI'm+Daniel+Jebarson;I+learn+technical+stuffs.;You+can+c%C3%B8ntact+me+in+discord.;Hi+there%2C+You+can+call+me+Dani.;Hi+there%2C+I'm+3rd+year+CSE+student;Hi+there%2C+I+play+music+stuffs.)](https://github.com/daniel-jebarson/daniel-jebarson)
-## 💫 About Me
+
+
+<img align='right'  src="https://avatars.githubusercontent.com/u/98336464?v=4" width="230">
+
+```javascript
+const dani = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Python", "Java", "TypeScript"],
+    askMeAbout: ["web dev", "tech", "app dev", "discord bot dev"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Flask", "Express"],
+        },
+        webApp: {
+            js,ts: ["ReactJs","NextJs"]
+        },
+        UI:{
+         js :["ChakraUi","MaterialUI"]
+        },
+        databases: ["mongobdb", "MySql", "firebase"],
+        misc: [ "Socket.IO", "c", "c++", "php", "chartJs"]
+    },
+    architecture: [
+    "Serverless Architecture", 
+    "Progressive web applications", "Single page applications"
+    ],
+    currentFocus: "Currently focused on placements",
+    funFact: "Overnigh Owl!"
+};
+```
+
+
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-jebarson-k-a727a822a/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17009742/daniel-jebarson-k) [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/daniel_diago2003/) [![Facebook](https://img.shields.io/badge/Facebook-1877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/daniel.jebarson.9)  
+<br>
+
+---
+## 💫 About Me 
 
 -  👨‍💻 I'm passionate in coding and learning some useful and useless technical stuffs
 
@@ -23,10 +61,7 @@
 Dani_Cyber#3019 
 ```
 
-## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-jebarson-k-a727a822a/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17009742/daniel-jebarson-k) [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/daniel_diago2003/) [![Facebook](https://img.shields.io/badge/Facebook-1877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/daniel.jebarson.9)  
-<br>
 
 ## ☄️ My Hacktoberfest Badges
 
