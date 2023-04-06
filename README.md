@@ -110,6 +110,6 @@ const dani = {
 
 <p align="left"> 
 <a href="https://komarev.com/ghpvc/?username=daniel-jebarson"><img alt="Views" src="https://komarev.com/ghpvc/?username=daniel-jebarson&color=red&label=VIEWS&style=flat-square">
-<a href="https://img.shields.io/github/followers/daniel-jebarson.svg?style=social&label=Follow&maxAge=2592000"><img alt="Follows" src="https://img.shields.io/github/followers/daniel-jebarson.svg?style=social&label=Follow&maxAge=2592000">
+<a href="https://img.shields.io/github/followers/daniel-jebarson.svg?style=social&label=Follow&maxAge=2592000"><img alt="Follows" src="https://img.shields.io/github/followers/daniel-jebarson.svg?style=social&label=Follow">
       </p>
 <br/>
