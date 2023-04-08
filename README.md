@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=18&vCenter=true&height=16&lines=Hi+there+%2CI'm+Daniel+Jebarson;I+learn+technical+stuffs.;You+can+c%C3%B8ntact+me+in+discord.;Hi+there%2C+You+can+call+me+Dani.;Hi+there%2C+I'm+3rd+year+CSE+student;Hi+there%2C+I+play+music+stuffs.)](https://github.com/daniel-jebarson/daniel-jebarson)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=18&vCenter=true&height=16&lines=Hi+there+%2CI'm+Daniel+Jebarson;I+learn+technical+stuffs.;You+can+c%C3%B8ntact+me+in+discord.;Hi+there%2C+You+can+call+me+Dani.;I'm+a+discord+active+developer.;Hi+there%2C+I'm+3rd+year+CSE+student;Hi+there%2C+I+play+music+stuffs.)](https://github.com/daniel-jebarson/daniel-jebarson)
 
 ## 💫 About Me 
 
