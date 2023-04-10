@@ -76,7 +76,7 @@ const dani = {
 
 <details>
   <summary>
-  ✨ Github ^___^
+   ✨ GitHub ^___^
   </summary>
 
 ## 📊 GitHub Stats
