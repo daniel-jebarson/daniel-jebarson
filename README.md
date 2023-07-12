@@ -6,7 +6,7 @@
 
 -  🔭 I’m currently working some mini-projects **[node-js](https://nodejs.org/en/)**
 
-- 📚 Studying in VIT Vellore 3rd year
+- 📚 Studying in VIT Vellore 4th year
 
 - 🎓Current status : VITIAN
 
@@ -89,7 +89,7 @@ const dani = {
 ## 📈 Activity Graph
 
 <a  href="https://github.com/daniel-jebarson/dani/blob/main/README.md">
- <div ><img alt="Daniel Jebarson's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=daniel-jebarson&theme=react-dark" /></div>
+ <div ><img alt="Daniel Jebarson's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=daniel-jebarson&theme=react-dark" /></div>
  </a>
  
  ## ✅ Github Contributions
