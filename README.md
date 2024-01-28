@@ -102,6 +102,9 @@ const dani = {
 ![](https://github-profile-trophy.vercel.app/?username=daniel-jebarson&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
 
 </details>
+
+### 🎶Listening
+![](https://spotify-github-profile.vercel.app/api/view.svg?uid=vo14arm3cgtprq4f30o4ruvky&cover_image=true&theme=novatorem&show_offline=true&background_color=18a04c&interchange=true&bar_color=24429e&bar_color_cover=false)
  
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
