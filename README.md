@@ -1,20 +1,18 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=18&vCenter=true&height=16&lines=Hi+there+%2CI'm+Daniel+Jebarson;I+learn+technical+stuffs.;You+can+c%C3%B8ntact+me+in+discord.;Hi+there%2C+You+can+call+me+Dani.;I'm+a+discord+active+developer.;Hi+there%2C+I'm+4th+year+CSE+student;Hi+there%2C+I+play+music+stuffs.)](https://github.com/daniel-jebarson/daniel-jebarson)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=18&vCenter=true&height=16&lines=Hi+there+%2CI'm+Daniel+Jebarson;I+learn+technical+stuffs.;You+can+c%C3%B8ntact+me+in+discord.;Hi+there%2C+You+can+call+me+Dani.;I'm+a+software+developer.;Hi+there%2C+I'm+working+at+Zenoti+Hyderabad;Hi+there%2C+I+play+music+stuffs.)](https://github.com/daniel-jebarson/daniel-jebarson)
 
 ## 💫 About Me 
 
 -  👨‍💻 I'm passionate in coding and learning some useful and useless technical stuffs
 
--  🔭 I’m currently working some mini-projects **[node-js](https://nodejs.org/en/)**
+-  🔭 I’m currently working at  **[Zenoti](https://www.zenoti.com/)**
 
-- 📚 Studying in VIT Vellore 4th year
+- 📚 I completed my BTECH at VIT Vellore
 
-- 🎓Current status : VITIAN
+- 🎓Current status : ZENOTIAN
 
 - 🏫School : AKMHSIAN
 
-- 🌱 I’m currently learning **React Native and TypeScript**
-
-- 👯 I’m looking to collaborate on **React Projects**
+- 🌱 I’m currently learning **DotNet and C#**
 
 - 👨‍💻 All of my projects are available at **[GitHub](https://github.com/daniel-jebarson)**
 
@@ -30,13 +28,14 @@ const dani = {
             js: ["Node", "Flask", "Express"],
         },
         webApp: {
-            js,ts: ["ReactJs","NextJs"]
+            js,ts: ["ReactJs","NextJs"],
+            c#: [".NET"]
         },
         UI:{
          js :["ChakraUi","MaterialUI"]
         },
         databases: ["mongobdb", "MySql", "firebase"],
-        misc: [ "Socket.IO", "c", "c++", "php", "chartJs"]
+        misc: [ "Socket.IO", "c", "c++","c#", "php", "chartJs"]
     },
     architecture: [
     "Serverless Architecture", "Progressive web applications", "Single page applications"
