@@ -2,7 +2,7 @@
 
 
 <div style="width: 50%; margin: 50px; border: 1px solid #ccc; padding: 20px;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=18&vCenter=true&height=16&lines=Hi+there+%2CI'm+Daniel+Jebarson;I+learn+technical+stuffs.;You+can+c%C3%B8ntact+me+in+discord.;Hi+there%2C+You+can+call+me+Dani.;I'm+a+software+developer.;Hi+there%2C+I'm+working+at+Zenoti+Hyderabad;Hi+there%2C+I+play+music+stuffs." alt="My Image"  style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=18&vCenter=true&height=16&lines=Hi+there+%2CI'm+Daniel+Jebarson;I+learn+technical+stuffs.;You+can+c%C3%B8ntact+me+in+discord.;Hi+there%2C+You+can+call+me+Dani.;I'm+a+software+developer.;Hi+there%2C+I'm+working+at+Amazon;Hi+there%2C+I+play+music+stuffs." alt="My Image"  style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
    
 </div>
 
@@ -12,15 +12,15 @@
 
 -  👨‍💻 I'm passionate in coding and learning some useful and useless technical stuffs
 
--  🔭 I’m currently working at  **[Zenoti](https://www.zenoti.com/)**
+-  🔭 I’m currently working at Amazon
 
 - 📚 I completed my BTECH at VIT Vellore
 
-- 🎓Current status : ZENOTIAN
+- 🎓Current status : MAANG Engineer
 
 - 🏫School : AKMHSIAN
 
-- 🌱 I’m currently learning **DotNet and C#**
+- 🌱 I’m currently learning **AI and C++**
 
 - 👨‍💻 All of my projects are available at **[GitHub](https://github.com/daniel-jebarson)**
 
